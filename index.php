@@ -1,5 +1,20 @@
 <!-- Fucking simple pptpd server accounting :| -->
 <!-- github.com/sinaxhpm -->
+<?php 
+if(isset($_POST['lpass'])){
+	if($_POST['lpass']=="smoking nirvana"){
+		setcookie('pptp', 'y');
+		$_COOKIE['pptp'] = 'y';
+		echo "Done";
+	}else{
+		echo "go to hell...";
+	}
+}elseif(!isset($_COOKIE['pptp'])) {
+echo "please Login First ...";
+echo "<form method='post'><input type='password' name='lpass'/><input value='login'type='submit'name='submit1'/></form>";
+exit;
+}
+?>
 <html>
 	<head>
 		<style>
