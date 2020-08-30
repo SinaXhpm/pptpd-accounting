@@ -1,5 +1,5 @@
 # pptpd-accounting
-WebUi pptpd server accouting/management
+WebUi pptpd server accounting/management
 
 Need Php 5.4 or higher and pptpd server.
 and some fking webserver or simply use php -S 0.0.0.0:1234 and open your ip in browser and here we go.
