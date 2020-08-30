@@ -7,7 +7,7 @@ and some fking webserver or simply use php -S 0.0.0.0:1234 and open your ip in b
 Default Password is "smoking nirvana" cuz its my favorite music name.
 you can change it 5 line of index.php
 
-Note :
+# Note :
 i wrote this panel in centos 7 so u have to care about directory names that used in index file.
 
 -Disable Pptpd Server MultiLogin by one User Account /Centos or redhat bases
@@ -37,4 +37,8 @@ if [ $PID ]; then
     fi
 fi
 ```
-press that fucking bullshit start button if it was fucking helpfull for u and there is NO LICENSE so you can do whatever u fucking want . have fun
+# Preview
+![preview](https://github.com/SinaXhpm/pptpd-accounting/raw/master/preview.jpg)
+
+# License
+press that fucking bullshit start button if it was fucking helpfull for u and there is NO LICENSE so you can do whatever u fucking want.
