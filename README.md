@@ -38,7 +38,7 @@ if [ $PID ]; then
 fi
 ```
 # Preview
-![preview](https://github.com/SinaXhpm/pptpd-accounting/raw/master/preview.jpg)
+![preview](https://github.com/SinaXhpm/pptpd-accounting/raw/master/preview1.jpg)
 
 # License
 press that fucking bullshit start button if it was fucking helpfull for u and there is NO LICENSE so you can do whatever u fucking want.
