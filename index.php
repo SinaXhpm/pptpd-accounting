@@ -3,8 +3,7 @@
 <?php 
 if(isset($_POST['lpass'])){
 	if($_POST['lpass']=="smoking nirvana"){
-		setcookie('pptp', 'y');
-		$_COOKIE['pptp'] = 'y';
+		setcookie('pptp', 'y',time()+7200);
 		echo "Done";
 	}else{
 		echo "go to hell...";
