@@ -37,6 +37,7 @@ if [ $PID ]; then
     fi
 fi
 ```
+Add these lines to if-up file in /etc/ppp/if-up
 # Preview
 ![preview](https://github.com/SinaXhpm/pptpd-accounting/raw/master/preview1.jpg)
 
