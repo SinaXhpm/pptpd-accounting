@@ -7,6 +7,7 @@ if(isset($_POST['lpass'])){
 		echo "Done";
 	}else{
 		echo "go to hell...";
+		exit;
 	}
 }elseif(!isset($_COOKIE['pptp'])) {
 echo "please Login First ...";
