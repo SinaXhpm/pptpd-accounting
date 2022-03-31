@@ -46,4 +46,4 @@ Add these lines to if-up file in /etc/ppp/if-up
 
 # License
 hit star if u like it.
-[![MIT license](https://img.shields.io/github/license/sinaxhpm/Azir_Socks_Over_Ssh)](http://opensource.org/licenses/MIT)
+[![MIT license](https://img.shields.io/github/license/sinaxhpm/pptpd-accounting)](http://opensource.org/licenses/MIT)
