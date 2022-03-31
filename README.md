@@ -1,6 +1,6 @@
 # pptp-accounting
 web interface pptp server accounting/management
-
+[![MIT license](https://img.shields.io/github/license/sinaxhpm/pptpd-accounting)](http://opensource.org/licenses/MIT)
 # Dependencies
 Php 5.4 or higher.
 pptpd server
@@ -46,4 +46,3 @@ Add these lines to if-up file in /etc/ppp/if-up
 
 # License
 hit star if u like it.
-[![MIT license](https://img.shields.io/github/license/sinaxhpm/pptpd-accounting)](http://opensource.org/licenses/MIT)
